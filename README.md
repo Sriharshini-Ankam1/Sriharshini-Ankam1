@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sriharshini Ankam
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Sriharshini Ankam
 
 🎯 **Data Analyst | Power BI Specialist | SQL Developer**
 
