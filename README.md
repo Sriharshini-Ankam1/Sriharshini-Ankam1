@@ -1,19 +1,66 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Sriharshini Ankam
+<!-- Title and Badge Side-by-Side -->
+<table>
+  <tr>
+    <td>
+      <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Sriharshini Ankam</h1>
+      <p><strong>🎯 Data Analyst | Power BI Specialist | SQL Developer</strong></p>
+      <p>I'm a passionate data analyst with 3.5+ years of experience turning raw data into meaningful insights. Skilled in Power BI, SQL, and data modeling, I enjoy building scalable dashboards and telling stories through data.</p>
+    </td>
+    <td align="right">
+      <img src="https://img.credly.com/images/2894490d-5f30-4d22-8faf-cb10b5bfa3ef/power-bi-data-analyst-associate-600x600.png" alt="Microsoft Certified Badge" width="120" />
+    </td>
+  </tr>
+</table>
 
-🎯 **Data Analyst | Power BI Specialist | SQL Developer**
 
-I'm a passionate data analyst with 3.5+ years of experience turning raw data into meaningful insights. Skilled in Power BI, SQL, and data modeling, I enjoy building scalable dashboards and telling stories through data.
+#### 🛠️ Tools & Technologies
 
----
+<p align="left">
 
-### 🧰 Tools & Technologies
-- Power BI, DAX, Power Query
-- SQL Server, PL/SQL, T-SQL
-- Azure Synapse, Power Automate
-- Git, GitHub, Agile
-- Excel, Python (NumPy, Pandas)
+  <a href="#" title="Power BI – Interactive dashboards, DAX, data modeling">
+    <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  </a>
+
+  <a href="#" title="SQL – Complex queries, joins, stored procedures">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  </a>
+
+  <a href="#" title="DAX – Advanced calculations in Power BI">
+    <img src="https://img.shields.io/badge/DAX-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
+  </a>
+
+  <a href="#" title="Power Query – Data transformation inside Power BI and Excel">
+    <img src="https://img.shields.io/badge/POWER%20QUERY-006400?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Power Query"/>
+  </a>
+
+  <a href="#" title="Excel – Formulas, Power Query, Pivot Tables">
+    <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  </a>
+
+  <a href="#" title="Tableau – Visual storytelling with interactive charts">
+    <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  </a>
+
+  <a href="#" title="Power Automate – Workflow automation & scheduled refreshes">
+    <img src="https://img.shields.io/badge/POWER%20AUTOMATE-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate"/>
+  </a>
+
+  <a href="#" title="Data Warehousing – ETL, star schemas, historical reporting">
+    <img src="https://img.shields.io/badge/DATA%20WAREHOUSING-9B59B6?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Warehousing"/>
+  </a>
+
+  <a href="#" title="Python – Pandas, NumPy, data manipulation for analytics">
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+
+  <a href="#" title="GitHub – Version control, project collaboration">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+</p>
 
 ## 🏅 Microsoft Certification
+![Microsoft Certified](https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Data%20Analyst-blue?style=flat-square&logo=microsoft&logoColor=white)
 
 ![Microsoft Certified Power BI Data Analyst Associate](./ms-power-bi-certificate.png)
 
