@@ -71,7 +71,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sriharshini-Ankam1/Netflix-Power-BI-Dashboard/main/cover.png" alt="Netflix Dashboard" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="netflix_banner.png" alt="Netflix Dashboard" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
 </div>
 
 <pre>
