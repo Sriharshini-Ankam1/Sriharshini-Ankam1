@@ -6,7 +6,7 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
         Hi there, I'm Sriharshini Ankam
         <a href="https://www.linkedin.com/in/sriharshini-ankam-64a29a177/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" alt="LinkedIn Profile"/>
+          <img src="linkedin-icon.png" width="25px" alt="LinkedIn Profile"/>
         </a>
       </h1>
       <p><strong>🎯 Data Analyst | Power BI Specialist | SQL Developer</strong></p>
@@ -17,7 +17,7 @@
     </td>
     <td align="right">
       <a href="https://learn.microsoft.com/en-gb/users/sriharshiniankam-2704/credentials/778612b636b06714?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
-        <img src="./microsoft-certified-associate-badge.svg" alt="Microsoft Certified Power BI Badge" width="120px"/>
+        <img src="./microsoft-certified-associate-badge.svg" alt="Microsoft Certified Power BI Badge" width="280px"/>
       </a>
     </td>
   </tr>
@@ -70,17 +70,36 @@
 
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sriharshini-Ankam1/Netflix-Power-BI-Dashboard/main/cover.png" alt="Netflix Dashboard" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
+</div>
+
+<pre>
+🎬 <strong>Netflix Power BI Dashboard</strong>
+</pre>
+
+<p>
+Created an interactive Power BI dashboard to visualize Netflix content distribution, genres, release trends, and global reach using data analysis techniques.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-0A66C2?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-006400?style=flat-square&logo=excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-E91E63?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+<p><a href="https://github.com/Sriharshini-Ankam1/Netflix-Power-BI-Dashboard" target="_blank">🔗 View Project</a></p>
+
+
+
+
 ### 📊 Featured Projects
 
 - 🔗 [SQL Data Warehouse Project](https://github.com/Sriharshini-Ankam1/SQL-Data-Warehouse-Project)
 - 🔗 [Netflix Power BI Dashboard](https://github.com/Sriharshini-Ankam1/Netflix-Power-BI-Dashboard)
 - 🔗 [Advanced SQL for eCommerce](https://github.com/Sriharshini-Ankam1/Advanced-SQL-MySQL-for-Ecommerce-Data-Analysis)
 
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriharshini-ankam-64a29a177)
----
 
 > “Turning data into insights, one dashboard at a time.”
