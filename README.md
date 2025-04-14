@@ -13,6 +13,14 @@ I'm a passionate data analyst with 3.5+ years of experience turning raw data int
 - Git, GitHub, Agile
 - Excel, Python (NumPy, Pandas)
 
+## 🏅 Microsoft Certification
+
+![Microsoft Certified Power BI Data Analyst Associate](./ms-power-bi-certificate.png)
+
+**Credential ID**: 778612B636B06714  
+**Earned**: February 5, 2025 • **Valid Until**: February 5, 2026  
+[🔗 View Certification Page](https://learn.microsoft.com/en-gb/users/sriharshiniankam-2704/credentials/778612b636b06714?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
+
 ---
 
 ### 📊 Featured Projects
