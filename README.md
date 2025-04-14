@@ -25,8 +25,7 @@ I'm a passionate data analyst with 3.5+ years of experience turning raw data int
 
 ### 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/sriharshini-ankam-64a29a177) • [GitHub](https://github.com/Sriharshini-Ankam1)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriharshini-ankam-64a29a177)
 ---
 
 > “Turning data into insights, one dashboard at a time.”
