@@ -2,12 +2,23 @@
 <table>
   <tr>
     <td>
-      <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Sriharshini Ankam</h1>
+      <h1>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+        Hi there, I'm Sriharshini Ankam
+        <a href="https://www.linkedin.com/in/sriharshini-ankam-64a29a177/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" alt="LinkedIn Profile"/>
+        </a>
+      </h1>
       <p><strong>🎯 Data Analyst | Power BI Specialist | SQL Developer</strong></p>
-      <p>I'm a passionate data analyst with 3.5+ years of experience turning raw data into meaningful insights. Skilled in Power BI, SQL, and data modeling, I enjoy building scalable dashboards and telling stories through data.</p>
+      <p>
+        I'm a passionate data analyst with 3.5+ years of experience turning raw data into meaningful insights.
+        Skilled in Power BI, SQL, and data modeling, I enjoy building scalable dashboards and telling stories through data.
+      </p>
     </td>
     <td align="right">
-      <img src="https://img.credly.com/images/2894490d-5f30-4d22-8faf-cb10b5bfa3ef/power-bi-data-analyst-associate-600x600.png" alt="Microsoft Certified Badge" width="120" />
+      <a href="https://learn.microsoft.com/en-gb/users/sriharshiniankam-2704/credentials/778612b636b06714?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+        <img src="./microsoft-certified-associate-badge.svg" alt="Microsoft Certified Power BI Badge" width="120px"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -58,17 +69,6 @@
   </a>
 
 </p>
-
-## 🏅 Microsoft Certification
-![Microsoft Certified](https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Data%20Analyst-blue?style=flat-square&logo=microsoft&logoColor=white)
-
-![Microsoft Certified Power BI Data Analyst Associate](./ms-power-bi-certificate.png)
-
-**Credential ID**: 778612B636B06714  
-**Earned**: February 5, 2025 • **Valid Until**: February 5, 2026  
-[🔗 View Certification Page](https://learn.microsoft.com/en-gb/users/sriharshiniankam-2704/credentials/778612b636b06714?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
-
----
 
 ### 📊 Featured Projects
 
