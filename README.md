@@ -73,9 +73,36 @@
 
 
 
----
+
 
 ## 🚀 Featured Projects
+
+<!-- Project 2: SQL Data Warehouse -->
+<table>
+  <tr>
+    <td width="30%">
+      <img src="data_architecture.png" alt="SQL Data Warehouse" height="150px" style="border-radius: 10px; object-fit: contain; width: 100%;" />
+    </td>
+    <td>
+      <h4>🏗 SQL Data Warehouse Project</h4>
+      <p>
+        Developed a robust SQL Data Warehouse using Medallion Architecture (Bronze, Silver, Gold). Designed ETL pipelines to transform raw CSVs into analytics-ready formats for dashboards.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong><br>
+        <img src="https://img.shields.io/badge/DATA%20WAREHOUSING-9B59B6?style=flat-square&logo=databricks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ETL-1D3557?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <p>
+        🔗 <a href="https://github.com/Sriharshini-Ankam1/SQL-Data-Warehouse-Project" target="_blank">View Project</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <!-- Project 1: Netflix Power BI Dashboard -->
 <table>
@@ -105,43 +132,16 @@
 
 <br>
 
-<!-- Project 2: SQL Data Warehouse -->
-<table>
-  <tr>
-    <td width="30%">
-      <img src="data_architecture.png" alt="SQL Data Warehouse" height="150px" style="border-radius: 10px; object-fit: contain; width: 100%;" />
-    </td>
-    <td>
-      <h4>🏗 SQL Data Warehouse Project</h4>
-      <p>
-        Developed a robust SQL Data Warehouse using Medallion Architecture (Bronze, Silver, Gold). Designed ETL pipelines to transform raw CSVs into analytics-ready formats for dashboards.
-      </p>
-      <p>
-        <strong>Tech Stack:</strong><br>
-        <img src="https://img.shields.io/badge/DATA%20WAREHOUSING-9B59B6?style=flat-square&logo=databricks&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ETL-1D3557?style=flat-square"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <p>
-        🔗 <a href="https://github.com/Sriharshini-Ankam1/SQL-Data-Warehouse-Project" target="_blank">View Project</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <!-- Project 3: Advanced SQL for eCommerce -->
 <table>
   <tr>
     <td width="30%">
-      <img src="ecommerce_sql.png" alt="eCommerce SQL Project" height="150px" style="border-radius: 10px; object-fit: cover; width: 100%;" />
+      <img src="ecommerce.png" alt="eCommerce SQL Project" height="150px" style="border-radius: 10px; object-fit: cover; width: 100%;" />
     </td>
     <td>
       <h4>🛍️ Advanced SQL for eCommerce</h4>
       <p>
-        Executed deep eCommerce analytics using advanced SQL (JOINs, CTEs, Window Functions) to optimize performance KPIs: reduced bounce rates, improved conversions, and boosted revenue per order.
+        Executed deep eCommerce analytics using advanced SQL (Joins, CTEs, Window Functions) to optimize performance KPIs: reduced bounce rates, improved conversions, and boosted revenue per order.
       </p>
       <p>
         <strong>Tech Stack:</strong><br>
@@ -161,4 +161,4 @@
 
 
 
-> “Turning data into insights, one dashboard at a time.”
+> “Turning data into insights, one project at a time.”
