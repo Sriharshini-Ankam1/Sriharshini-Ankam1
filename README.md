@@ -70,36 +70,95 @@
 
 </p>
 
-<div align="center">
-  <img src="netflix_banner.jpg" alt="Netflix Dashboard" width="50%" height="200px" style="object-fit: cover; border-radius: 10px;" />
-</div>
-
-<pre>
-🎬 <strong>Netflix Power BI Dashboard</strong>
-</pre>
-
-<p>
-Created an interactive Power BI dashboard to visualize Netflix content distribution, genres, release trends, and global reach using data analysis techniques.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-0A66C2?style=flat-square&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Query-006400?style=flat-square&logo=excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-E91E63?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-
-<p><a href="https://github.com/Sriharshini-Ankam1/Netflix-Power-BI-Dashboard" target="_blank">🔗 View Project</a></p>
 
 
 
+---
 
-### 📊 Featured Projects
+## 🚀 Featured Projects
 
-- 🔗 [SQL Data Warehouse Project](https://github.com/Sriharshini-Ankam1/SQL-Data-Warehouse-Project)
-- 🔗 [Netflix Power BI Dashboard](https://github.com/Sriharshini-Ankam1/Netflix-Power-BI-Dashboard)
-- 🔗 [Advanced SQL for eCommerce](https://github.com/Sriharshini-Ankam1/Advanced-SQL-MySQL-for-Ecommerce-Data-Analysis)
+<!-- Project 1: Netflix Power BI Dashboard -->
+<table>
+  <tr>
+    <td width="30%">
+      <img src="netflix_banner.jpg" alt="Netflix Dashboard" height="150px" style="border-radius: 10px; object-fit: cover; width: 100%;" />
+    </td>
+    <td>
+      <h4>🎬 Netflix Power BI Dashboard</h4>
+      <p>
+        Built an interactive Power BI dashboard to visualize Netflix content distribution, genres, release trends, and global reach using data analysis techniques.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong><br>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DAX-0A66C2?style=flat-square&logo=microsoft&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power%20Query-006400?style=flat-square&logo=excel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Data%20Visualization-E91E63?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <p>
+        🔗 <a href="https://github.com/Sriharshini-Ankam1/Netflix-Power-BI-Dashboard" target="_blank">View Project</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Project 2: SQL Data Warehouse -->
+<table>
+  <tr>
+    <td width="30%">
+      <img src="data_architecture.png" alt="SQL Data Warehouse" height="150px" style="border-radius: 10px; object-fit: contain; width: 100%;" />
+    </td>
+    <td>
+      <h4>🏗 SQL Data Warehouse Project</h4>
+      <p>
+        Developed a robust SQL Data Warehouse using Medallion Architecture (Bronze, Silver, Gold). Designed ETL pipelines to transform raw CSVs into analytics-ready formats for dashboards.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong><br>
+        <img src="https://img.shields.io/badge/DATA%20WAREHOUSING-9B59B6?style=flat-square&logo=databricks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ETL-1D3557?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <p>
+        🔗 <a href="https://github.com/Sriharshini-Ankam1/SQL-Data-Warehouse-Project" target="_blank">View Project</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Project 3: Advanced SQL for eCommerce -->
+<table>
+  <tr>
+    <td width="30%">
+      <img src="ecommerce_sql.png" alt="eCommerce SQL Project" height="150px" style="border-radius: 10px; object-fit: cover; width: 100%;" />
+    </td>
+    <td>
+      <h4>🛍️ Advanced SQL for eCommerce</h4>
+      <p>
+        Executed deep eCommerce analytics using advanced SQL (JOINs, CTEs, Window Functions) to optimize performance KPIs: reduced bounce rates, improved conversions, and boosted revenue per order.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong><br>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CTE%20Queries-FF5733?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Window%20Functions-8E44AD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Analytics-00BFFF?style=flat-square"/>
+      </p>
+      <p>
+        🔗 <a href="https://github.com/Sriharshini-Ankam1/Advanced-SQL-MySQL-for-Ecommerce-Data-Analysis" target="_blank">View Project</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 > “Turning data into insights, one dashboard at a time.”
