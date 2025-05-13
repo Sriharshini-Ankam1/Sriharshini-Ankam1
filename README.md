@@ -157,7 +157,22 @@
   </tr>
 </table>
 
+### 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sriharshini-Ankam1&theme=tokyonight&hide_border=false" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriharshini-Ankam1&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriharshini-Ankam1&theme=tokyonight&hide_border=false&layout=compact" />
+</div>
+
+
+### 🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sriharshini-Ankam1&theme=onestar&no-frame=true&no-bg=false&margin-w=15&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" alt="GitHub Trophies" /> </div>
+
+### 🔝 Top Contributed Repositories
+<div align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=Sriharshini-Ankam1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" /> </div>
 
 
 
