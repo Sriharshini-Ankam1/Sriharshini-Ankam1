@@ -26,16 +26,15 @@
 
 #### 🛠️ Tools & Technologies
 
+#### 🛠️ Tools & Technologies
+
 <p align="left">
 
+  <!-- Power Platform & BI -->
   <a href="#" title="Power BI – Interactive dashboards, DAX, data modeling">
     <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   </a>
-
-  <a href="#" title="SQL – Complex queries, joins, stored procedures">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  </a>
-
+  
   <a href="#" title="DAX – Advanced calculations in Power BI">
     <img src="https://img.shields.io/badge/DAX-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
   </a>
@@ -44,16 +43,30 @@
     <img src="https://img.shields.io/badge/POWER%20QUERY-006400?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Power Query"/>
   </a>
 
-  <a href="#" title="Excel – Formulas, Power Query, Pivot Tables">
-    <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  </a>
-
-  <a href="#" title="Tableau – Visual storytelling with interactive charts">
-    <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  </a>
-
   <a href="#" title="Power Automate – Workflow automation & scheduled refreshes">
     <img src="https://img.shields.io/badge/POWER%20AUTOMATE-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate"/>
+  </a>
+
+  <!-- Azure Ecosystem -->
+  <a href="#" title="Azure Data Factory – Orchestration of ETL pipelines">
+    <img src="https://img.shields.io/badge/AZURE%20DATA%20FACTORY-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory"/>
+  </a>
+
+  <a href="#" title="Azure Synapse – Analytics service for big data and warehousing">
+    <img src="https://img.shields.io/badge/AZURE%20SYNAPSE%20ANALYTICS-008AD7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure Synapse"/>
+  </a>
+
+  <a href="#" title="Azure Data Lake – Scalable storage for big data analytics">
+    <img src="https://img.shields.io/badge/AZURE%20DATA%20LAKE-00BFFF?style=for-the-badge&logo=windows&logoColor=white" alt="Azure Data Lake"/>
+  </a>
+
+  <a href="#" title="Azure Databricks – Apache Spark-based analytics in Azure">
+    <img src="https://img.shields.io/badge/AZURE%20DATABRICKS-E34A86?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks"/>
+  </a>
+
+  <!-- Data, SQL, Python -->
+  <a href="#" title="SQL – Complex queries, joins, stored procedures">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   </a>
 
   <a href="#" title="Data Warehousing – ETL, star schemas, historical reporting">
@@ -64,11 +77,21 @@
     <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
 
+  <!-- Visualization & Version Control -->
+  <a href="#" title="Tableau – Visual storytelling with interactive charts">
+    <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  </a>
+
+  <a href="#" title="Excel – Formulas, Power Query, Pivot Tables">
+    <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  </a>
+
   <a href="#" title="GitHub – Version control, project collaboration">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
 </p>
+
 
 
 
