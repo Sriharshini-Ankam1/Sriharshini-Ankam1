@@ -11,8 +11,11 @@
       </h1>
       <p><strong>🎯 Data Analyst | Power BI Specialist | SQL Developer</strong></p>
       <p>
-        I'm a passionate data analyst with multiple years of experience turning raw data into meaningful insights.
-        Skilled in Power BI, SQL, and data modeling, I enjoy building scalable dashboards and telling stories through data.
+        I'm passionate about transforming complex data into clear, actionable insights that drive real business value. With hands-on expertise in Power BI, SQL, and the Azure ecosystem, I build intuitive dashboards, scalable data models, and automated reporting systems across domains like Finance, CPG, and Supply Chain.
+
+I also enjoy working with Python for data wrangling, visualization, and statistical analysis—and I’ve explored machine learning to build predictive models that uncover hidden patterns and optimize decision-making.
+
+Whether it’s enabling self-serve analytics, automating manual workflows, or digging deep into data with ML, I love making data meaningful and impactful.
       </p>
     </td>
     <td align="right">
