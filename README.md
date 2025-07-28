@@ -124,7 +124,7 @@ Whether it’s enabling self-serve analytics, automating manual workflows, or di
 <table>
   <tr>
     <td width="30%">
-      <img src="HR_Summary.png" alt="HR Dashboard in Tableau" height="150px" style="border-radius: 10px; object-fit: cover; width: 100%;" />
+      <img src="HR _ Summary.png" alt="HR Dashboard in Tableau" height="150px" style="border-radius: 10px; object-fit: cover; width: 100%;" />
     </td>
     <td>
       <h4>👥 HR Analytics Dashboard in Tableau</h4>
