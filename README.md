@@ -11,7 +11,7 @@
       </h1>
       <p><strong>🎯 Data Analyst | Power BI Specialist | SQL Developer</strong></p>
       <p>
-        I'm a passionate data analyst with 3.5+ years of experience turning raw data into meaningful insights.
+        I'm a passionate data analyst with multiple years of experience turning raw data into meaningful insights.
         Skilled in Power BI, SQL, and data modeling, I enjoy building scalable dashboards and telling stories through data.
       </p>
     </td>
