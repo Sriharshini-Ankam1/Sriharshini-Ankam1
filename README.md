@@ -120,6 +120,32 @@ Whether it’s enabling self-serve analytics, automating manual workflows, or di
   </tr>
 </table>
 
+<!-- Project 4: HR Analytics Dashboard in Tableau -->
+<table>
+  <tr>
+    <td width="30%">
+      <img src="HR_Summary.png" alt="HR Dashboard in Tableau" height="150px" style="border-radius: 10px; object-fit: cover; width: 100%;" />
+    </td>
+    <td>
+      <h4>👥 HR Analytics Dashboard in Tableau</h4>
+      <p>
+        Built an interactive HR dashboard in Tableau to visualize workforce metrics across 10,000+ employee records—covering demographics, hiring trends, role distribution, and departmental performance.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong><br>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ETL%20Workflows-FF5733?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Analytics-D35400?style=flat-square"/>
+        <img src="https://img.shields.io/badge/HR%20Metrics-2980B9?style=flat-square"/>
+      </p>
+      <p>
+        🔗 <a href="https://public.tableau.com/app/profile/sriharshini.ankam/viz/HRDashboard_17413779707400/HRSummary?publish=yes" target="_blank">View Live Dashboard</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 ### 📈 GitHub Stats
 
 <div align="center">
